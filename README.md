@@ -2,29 +2,6 @@
 
 **Data Engineer** с опытом построения высоконагруженных систем обработки данных в реальном времени. Специализируюсь на потоковой обработке данных, event-driven архитектурах и интеграции корпоративных систем.
 
-<p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api?username=magkairatov&show_icons=true&count_private=true">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=magkairatov&show_icons=true&count_private=true"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=magkairatov&layout=compact">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=magkairatov&layout=compact"/>
-  </a>
-</p>
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/magkairatov/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/magkairatov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
-<p align='center'>
-  📍 Алматы, Казахстан<br>
-  📫 Связаться со мной: <a href='mailto:your.email@example.com'>your.email@example.com</a>
-</p>
-
 ## 🎯 Ключевые достижения
 
 * Разработка высокопроизводительных систем потоковой обработки данных (10K+ сообщений/сек)
@@ -61,26 +38,26 @@
 
 ## 💼 Открытые проекты
 
-### [Kafka Stream Processing System](https://github.com/magkairatov/kafka-stream-processing)
+### [Kafka Stream Processing System](https://github.com/magkairatov/scala-kafka-cassandra-analytics)
 Высокопроизводительная система обработки финансовых транзакций в реальном времени
 * **Технологии:** Scala, Akka Streams, Kafka, Cassandra, Oracle AQ
 * **Возможности:** Потоковая обработка, аналитика, детекция аномалий, мультисистемная интеграция
 * **Производительность:** 1000+ сообщений/сек, латентность < 100ms
 
-### [Oracle AQ to Kafka Bridge](https://github.com/magkairatov/aq-kafka-bridge)
+### [Oracle AQ to Kafka Bridge](https://github.com/magkairatov/scala-oracle-to-kafka)
 Отказоустойчивый конвейер данных для интеграции Oracle AQ и Apache Kafka
 * **Технологии:** Scala, Akka Streams, Alpakka JMS, Alpakka Kafka
 * **Возможности:** Реактивная обработка, JSON валидация, автоматическое восстановление
 * **Особенности:** Graceful shutdown, comprehensive error handling
 
-### [Banking Transaction Microservices](https://github.com/magkairatov/banking-microservices)
+### [Banking Transaction Microservices](https://github.com/magkairatov/scala-api-cassandra)
 Микросервисная система обработки банковских транзакций
 * **Технологии:** Scala, Akka HTTP, Akka Cluster, Kafka, Cassandra, KSQL
 * **API:** REST API + WebSocket для real-time обновлений
 * **Архитектура:** Event-driven, горизонтальное масштабирование
 * **Производительность:** 10K транзакций/сек, p99 latency < 100ms
 
-### [Multi-Source Kafka Streams](https://github.com/magkairatov/kafka-streams-processor)
+### [Multi-Source Kafka Streams](https://github.com/magkairatov/kafka-processing)
 Масштабируемая система обработки данных из множественных источников
 * **Технологии:** Scala, Akka Streams, Kafka, Avro, Schema Registry
 * **Возможности:** Динамическая загрузка потоков, трансформация данных, backpressure
@@ -112,13 +89,3 @@
 * Опыт работы с высоконагруженными системами
 * Знание best practices в области data engineering
 * Навыки проектирования отказоустойчивых архитектур
-
----
-
-<div align="center" style="margin: 40px 0">
-  <a href="https://github.com/magkairatov/github-profile-views-counter">
-    <img width="175px" src="https://komarev.com/ghpvc/?username=magkairatov&color=DE002D">
-  </a>
-</div>
-
-⭐️ Открыт для интересных проектов и предложений о сотрудничестве!
